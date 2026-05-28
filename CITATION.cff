@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Code for Single-Particle Polarization Tomography Enables Highly Accurate Phase Identification of Cloud Particles"
+version: 1.0.0
+type: software
+license: MIT
+
+authors:
+  - family-names: Chen
+    given-names: Yang
+  - family-names: Xu
+    given-names: Xiang
+  - family-names: Xiao
+    given-names: Ruishan
+  - family-names: Yao
+    given-names: Fangzhen
+  - family-names: Shi
+    given-names: Xiaojing
+  - family-names: Wang
+    given-names: Jiaxin
+
+
+repository-code: "https://github.com/chenchenyang17-wq/polarization-tomography-cloud-particles"
+
+keywords:
+  - cloud particles
+  - polarization tomography
+  - digital holography
+  - MATLAB
+  - degree of linear polarization
+  - DoLP
+  - support vector machine
+  - phase identification
+
+abstract: "This repository contains MATLAB code for polarization tomographic imaging of cloud particles, including holographic reconstruction of polarization images, DoLP calculation, holographic reconstruction of original intensity images, microphysical parameter extraction, and support vector machine classification of liquid droplets and ice crystals."
