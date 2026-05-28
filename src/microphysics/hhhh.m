@@ -1,0 +1,20 @@
+clc;clear;
+ %mkdir('C:\Users\Hongyu\Desktop\3\20');
+ mkdir('D:\Desktop\微物理参数\液滴\output1st');
+mkdir('D:\Desktop\微物理参数\液滴\output2nd');
+mkdir('D:\Desktop\微物理参数\液滴\output3rd');
+mkdir('D:\Desktop\微物理参数\液滴\output4th');
+mkdir('D:\Desktop\微物理参数\液滴\output5th');
+mkdir('D:\Desktop\微物理参数\液滴\output6th');
+mkdir('D:\Desktop\微物理参数\液滴\输出');
+mkdir('D:\Desktop\微物理参数\液滴\判焦前');
+num=9;
+for i=1:num
+    %mkdir('C:\Users\Hongyu\Desktop\3\20',int2str(i));
+    mkdir('D:\Desktop\微物理参数\液滴\output1st',int2str(i));
+    mkdir('D:\Desktop\微物理参数\液滴\output2nd',int2str(i));
+    mkdir('D:\Desktop\微物理参数\液滴\output3rd',int2str(i));
+    mkdir('D:\Desktop\微物理参数\液滴\output4th',int2str(i));
+    mkdir('D:\Desktop\微物理参数\液滴\output5th',int2str(i));
+    mkdir('D:\Desktop\微物理参数\液滴\output6th',int2str(i));
+end
