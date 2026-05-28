@@ -13,9 +13,9 @@ dis = dis(index);
 nms = {dis.name};
 
 % 读取4个角度的偏振图像（转换为double格式）
-image1 = double(imread([pt, nms{1}])); % 0°偏振图像
+image1 = double(imread([pt, nms{3}])); % 0°偏振图像
 image2 = double(imread([pt, nms{2}])); % 45°偏振图像
-image3 = double(imread([pt, nms{3}])); % 90°偏振图像
+image3 = double(imread([pt, nms{1}])); % 90°偏振图像
 image4 = double(imread([pt, nms{4}])); % 135°偏振图像
 
 % 对0°图像归一化（用于生成粒子/背景二值化掩码）
