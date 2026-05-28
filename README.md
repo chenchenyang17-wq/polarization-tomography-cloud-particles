@@ -54,9 +54,9 @@ Dataset DOI: to be added after Zenodo publication.
 
 ## Software archive
 
-A versioned release of this repository will be archived in Zenodo to obtain a software DOI.
+Version 1.0.0 of this repository has been archived in Zenodo.
 
-Software DOI: to be added after Zenodo release.
+Software DOI: https://doi.org/10.5281/zenodo.20424416
 
 ## License
 
@@ -64,6 +64,9 @@ This software is released under the MIT License. See the `LICENSE` file for deta
 
 ## Citation
 
-If you use this code, please cite the associated software record and manuscript.
+## Citation
 
-Software citation will be added after the Zenodo DOI is generated.
+If you use this code, please cite the associated software record:
+
+Chen, Y., Xu, X., Xiao, R., Yao, F., Shi, X., & Wang, J. (2026). Code for "Single-Particle Polarization Tomography Enables Highly Accurate Phase Identification of Cloud Particles" (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20424416
+
