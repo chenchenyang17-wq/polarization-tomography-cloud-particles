@@ -72,7 +72,7 @@ function zaixianchengxu_aa1()  % 修正函数定义，便于直接调用
 
         % 重建距离参数（原逻辑不变，当前为0~34mm，35步）
         Depth_range = [0 34];
-        Depth_steps = 51;
+        Depth_steps = 35;
         if Depth_steps == 1
             Slice_depths = Depth_range(1);
         else
