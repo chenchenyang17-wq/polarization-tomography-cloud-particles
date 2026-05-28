@@ -1,0 +1,45 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB temporary files
+*.mex*
+*.log
+*.tmp
+
+# Simulink generated files, if any
+slprj/
+*.slxc
+*.mdl.autosave
+*.slx.autosave
+
+# MATLAB cache / project files
+.matlab/
+*.prj
+
+# Large data files - keep full data in Zenodo, not GitHub
+data/
+raw_data/
+raw/
+results/
+output/
+*.mat
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.avi
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
