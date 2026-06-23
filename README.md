@@ -44,13 +44,16 @@ Recommended software:
 - Image Processing Toolbox
 - Statistics and Machine Learning Toolbox
 
+
+
 ## Data availability
 
-The full research dataset will be archived separately in Zenodo.
+The full research dataset has been archived in Zenodo.
 
-The dataset will include calibration measurements, extracted single-particle morphological and polarization parameters, particle labels, train/test split information, classification results, and the underlying data used to generate the figures and tables in the manuscript.
+The dataset includes calibration measurements, extracted single-particle morphological and polarization parameters, particle labels, train/test split information, classification results, and the underlying data used to generate the figures and tables in the manuscript.
 
-Dataset DOI: to be added after Zenodo publication.
+Dataset DOI: https://doi.org/10.5281/zenodo.20809317
+
 
 ## Software archive
 
